@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [LinkedinSuite]">
+  <test thread-count="5" name="linkedinTest(failed)">
+    <classes>
+      <class name="learnautomation.linkedin">
+        <methods>
+          <include name="ProgramTermination"/>
+          <include name="loginToLinkedin" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- learnautomation.linkedin -->
+    </classes>
+  </test> <!-- linkedinTest(failed) -->
+</suite> <!-- Failed suite [LinkedinSuite] -->

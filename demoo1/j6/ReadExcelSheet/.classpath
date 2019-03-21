@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="srcf/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Downloads/apache-poi.jar/apache-poi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/poi-examples-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/poi-excelant-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AL2501/Desktop/sel/xmlbeans-xmlpublic-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

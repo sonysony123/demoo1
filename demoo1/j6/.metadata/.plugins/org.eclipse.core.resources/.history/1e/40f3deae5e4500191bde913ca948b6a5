@@ -1,0 +1,9 @@
+package gmailLogin;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+
+public class login6
+{
+	System.setProperty("webdriver.gecko.driver","./sony/webdriver.geckodriver.exe");
+}
